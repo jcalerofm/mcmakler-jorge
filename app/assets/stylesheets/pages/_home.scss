@@ -1,1 +1,21 @@
-// Specific CSS for your home-page
+.banner {
+
+}
+
+.banner h1 {
+  margin-bottom: 25px;
+  color: #124B54;
+  // text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+.banner p {
+  font-size: 20px;
+  color: #124B54;
+  opacity: .7;
+  margin-bottom: 30px;
+  // text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
