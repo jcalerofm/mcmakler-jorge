@@ -248,7 +248,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   capybara (>= 2.15)
-  cloudinary (~> 1.12.0)
+  cloudinary
   dotenv-rails
   font-awesome-sass
   jbuilder (~> 2.7)
